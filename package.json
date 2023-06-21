@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "parcel src/index.html src/style/main.scss src/scripts/main.js",
-    "build": "parcel build src/index.html --public-url ./", 
+    "build": "parcel build src/index.html https://github.com/AquilesFullStack/Evento_js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
